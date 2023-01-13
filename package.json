@@ -1,0 +1,8 @@
+{
+  "name": "5TemplateAndStaticFile",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "qs": "^6.11.0"
+  }
+}
